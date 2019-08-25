@@ -1,9 +1,11 @@
-# 100Day-ML-Marathon
+# :runner: 100Day-ML-Marathon Challenge :computer:
 
 ![Alt text](./photos/cover.JPG)
-Personal upload space for the [100Day-ML-Marathon](https://ai100-2.cupoy.com), which is a marathon of training your machine learning skill on [Kaggle](https://www.kaggle.com) in 100 consecutive days.
+Personal uploaded space for the [100Day-ML-Marathon](https://ai100-2.cupoy.com), which is a marathon Challenge about training your machine learning skill on [Kaggle](https://www.kaggle.com) in 100 consecutive days.
 
-### Daily Topic
+:scroll: My Certificate of Completion: [PDF](https://drive.google.com/file/d/1s__s74hmW18NOxa7ezOmvKrnOkQGTBUw/view?usp=sharing)
+
+### Daily Topic :books:
 #### Clean Data and Data Preprocessing
 - Day 01 : Data Introduction and Assessment
 - Day 02 : Exploratory Data Analysis(EDA)

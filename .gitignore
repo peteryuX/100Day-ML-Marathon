@@ -1,3 +1,4 @@
 **/data
 **/*.7z
 **/*.zip
+**/.ipynb_checkpoints/*
